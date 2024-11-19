@@ -1,0 +1,33 @@
+.texts{
+    text-align: center;
+
+}
+.texts .main{
+    font-size: 80px;
+    font-weight:700;
+
+}
+.texts h3{
+    font-size: 35px;
+    font-weight:400;
+}
+.rbtn{
+    text-align: center;
+}
+.rbtn button{
+    text-align: center;
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color:white;
+
+}
+.rbtn button:hover{
+    background-color: green;
+
+}
+
+.pQuotes{
+    text-align: center;
+
+}
